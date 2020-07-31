@@ -1,0 +1,26 @@
+{
+  "name": "brutal-js",
+  "version": "1.0.0",
+  "description": "Brutal.io client!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimdenGD/Brutal.js.git"
+  },
+  "keywords": [
+    "brutal.io",
+    "brutal",
+    "client",
+    "brutalio",
+    "brutal-io"
+  ],
+  "author": "dimden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimdenGD/Brutal.js/issues"
+  },
+  "homepage": "https://github.com/dimdenGD/Brutal.js#readme"
+}
