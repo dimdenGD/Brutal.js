@@ -69,7 +69,7 @@ let bot = new Brutal({
 `this.map` - map data  
 `this.country` - `options.country` (default `UA`)  
 `this.init()` - init everything  
-
+https://github.com/Craabby/brutal-private/blob/c8026375dcc8f70f1d8721ffeb38be3c0e112642/coder/clientbound/mapInfo.js#L4
 ### Opcodes
 ```js
 this.opcodes = {
